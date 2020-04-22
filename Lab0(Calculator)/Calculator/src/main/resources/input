@@ -1,0 +1,4 @@
+DEFINE a 6
+PUSH a
++
+PRINT

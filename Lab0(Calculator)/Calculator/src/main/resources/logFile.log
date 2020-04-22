@@ -1,0 +1,96 @@
+апр. 09, 2020 10:46:13 PM calculator.Calculator calculate
+INFO: Command DEFINE did calculation successfully
+апр. 09, 2020 10:46:13 PM calculator.Calculator calculate
+INFO: Command DEFINE did calculation successfully
+апр. 09, 2020 10:46:13 PM calculator.Calculator calculate
+INFO: Command DEFINE did calculation successfully
+апр. 09, 2020 10:46:13 PM calculator.Calculator calculate
+INFO: Command PUSH did calculation successfully
+апр. 09, 2020 10:46:13 PM calculator.Calculator calculate
+INFO: Command PUSH did calculation successfully
+апр. 09, 2020 10:46:13 PM calculator.Calculator calculate
+INFO: Command SQRT did calculation successfully
+апр. 09, 2020 10:46:13 PM calculator.Calculator calculate
+SEVERE: Error during calculation of command /, Division by zero
+апр. 09, 2020 10:46:13 PM calculator.Calculator calculate
+INFO: Command PUSH did calculation successfully
+апр. 09, 2020 10:46:13 PM calculator.Calculator calculate
+INFO: Command * did calculation successfully
+апр. 09, 2020 10:46:13 PM calculator.Calculator calculate
+INFO: Command PRINT did calculation successfully
+апр. 09, 2020 10:46:13 PM Main main
+INFO: Calculator has ended the calculation
+апр. 09, 2020 10:49:32 PM Main main
+INFO: Created Calculator in class Main
+апр. 09, 2020 10:49:32 PM calculator.Calculator calculate
+INFO: Command DEFINE did calculation successfully
+апр. 09, 2020 10:49:32 PM calculator.Calculator calculate
+INFO: Command DEFINE did calculation successfully
+апр. 09, 2020 10:49:32 PM calculator.Calculator calculate
+INFO: Command DEFINE did calculation successfully
+апр. 09, 2020 10:49:32 PM calculator.Calculator calculate
+INFO: Command PUSH did calculation successfully
+апр. 09, 2020 10:49:32 PM calculator.Calculator calculate
+INFO: Command PUSH did calculation successfully
+апр. 09, 2020 10:49:32 PM calculator.Calculator calculate
+INFO: Command SQRT did calculation successfully
+апр. 09, 2020 10:49:32 PM calculator.Calculator calculate
+SEVERE: Error during calculation of command /, Division by zero
+апр. 09, 2020 10:49:32 PM calculator.Calculator calculate
+INFO: Command PUSH did calculation successfully
+апр. 09, 2020 10:49:32 PM calculator.Calculator calculate
+INFO: Command * did calculation successfully
+апр. 09, 2020 10:49:32 PM calculator.Calculator calculate
+INFO: Command PRINT did calculation successfully
+апр. 09, 2020 10:49:32 PM Main main
+INFO: Calculator has ended the calculation
+апр. 10, 2020 12:01:44 AM Main main
+INFO: Created Calculator in class Main
+апр. 10, 2020 12:01:44 AM calculator.Calculator calculate
+INFO: Command DEFINE did calculation successfully
+апр. 10, 2020 12:01:44 AM calculator.Calculator calculate
+INFO: Command PUSH did calculation successfully
+апр. 10, 2020 12:01:44 AM calculator.Calculator calculate
+SEVERE: Error during calculation of command +, Too few elements on stack, need 2 at least
+апр. 10, 2020 12:01:44 AM calculator.Calculator calculate
+INFO: Command PRINT did calculation successfully
+апр. 10, 2020 12:01:44 AM Main main
+INFO: Calculator has ended the calculation
+апр. 10, 2020 12:31:19 AM Main main
+INFO: Created Calculator in class Main
+апр. 10, 2020 12:31:19 AM calculator.Calculator calculate
+INFO: Command DEFINE did calculation successfully
+апр. 10, 2020 12:31:19 AM calculator.Calculator calculate
+INFO: Command PUSH did calculation successfully
+апр. 10, 2020 12:31:19 AM calculator.Calculator calculate
+SEVERE: Error during calculation of command +, Too few elements on stack, need 2 at least
+апр. 10, 2020 12:31:19 AM calculator.Calculator calculate
+INFO: Command PRINT did calculation successfully
+апр. 10, 2020 12:31:19 AM Main main
+INFO: Calculator has ended the calculation
+апр. 10, 2020 2:43:23 AM Main main
+INFO: Created Calculator in class Main
+апр. 10, 2020 2:44:00 AM Main main
+INFO: Created Calculator in class Main
+апр. 10, 2020 2:44:00 AM calculator.Calculator calculate
+INFO: Command DEFINE did calculation successfully
+апр. 10, 2020 2:44:00 AM calculator.Calculator calculate
+INFO: Command PUSH did calculation successfully
+апр. 10, 2020 2:44:00 AM calculator.Calculator calculate
+SEVERE: Error during calculation of command +, Too few elements on stack, need 2 at least
+апр. 10, 2020 2:44:00 AM calculator.Calculator calculate
+INFO: Command PRINT did calculation successfully
+апр. 10, 2020 2:44:00 AM Main main
+INFO: Calculator has ended the calculation
+апр. 10, 2020 2:45:14 AM Main main
+INFO: Created Calculator in class Main
+апр. 10, 2020 2:45:14 AM calculator.Calculator calculate
+INFO: Command DEFINE did calculation successfully
+апр. 10, 2020 2:45:14 AM calculator.Calculator calculate
+INFO: Command PUSH did calculation successfully
+апр. 10, 2020 2:45:14 AM calculator.Calculator calculate
+SEVERE: Error during calculation of command +, Too few elements on stack, need 2 at least
+апр. 10, 2020 2:45:14 AM calculator.Calculator calculate
+INFO: Command PRINT did calculation successfully
+апр. 10, 2020 2:45:14 AM Main main
+INFO: Calculator has ended the calculation

@@ -12,7 +12,6 @@ public class Sub implements Command {
         data.pushNumber(value2 - value1);
     }
 
-    @Override
     public void checkCommand(Context data, String[] argsOfCommand) throws WrongArgumentsException, StackSizeException {
         if (argsOfCommand.length != 0){
             throw new WrongArgumentsException("Too many arguments, need nothing");

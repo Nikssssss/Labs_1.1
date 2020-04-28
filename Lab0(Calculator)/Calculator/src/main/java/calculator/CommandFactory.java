@@ -5,15 +5,16 @@ import calculator.factoryExceptions.CommandCreateException;
 import calculator.factoryExceptions.PropertyLoadException;
 import calculator.factoryExceptions.UnknownCommandException;
 
-import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.Properties;
 
 public class CommandFactory {
     Properties property = new Properties();
     private CommandFactory() throws PropertyLoadException{
         try {
-            property.load(new FileInputStream("src/main/resources/commandsConfig.properties"));
+            InputStream propFile = CommandFactory.class.getClassLoader().getResourceAsStream("commandsConfig.properties");
+            property.load(propFile);
         }
         catch(IOException ex){
             throw new PropertyLoadException("Can't load the property file of commands");
@@ -23,7 +24,11 @@ public class CommandFactory {
     private static CommandFactory instance = null;
     public static CommandFactory getInstance() throws PropertyLoadException{
         if (instance == null){
-            instance = new CommandFactory();
+            synchronized (CommandFactory.class) {
+                if (instance == null) {
+                    instance = new CommandFactory();
+                }
+            }
         }
         return instance;
     }

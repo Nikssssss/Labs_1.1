@@ -1,12 +1,7 @@
 package calculator.commands;
 
-import calculator.calculatorExceptions.DivisionByZeroException;
-import calculator.calculatorExceptions.NegativeOperandException;
-import calculator.calculatorExceptions.StackSizeException;
-import calculator.calculatorExceptions.WrongArgumentsException;
+import calculator.calculatorExceptions.*;
 
 public interface Command {
-    void doOperation(Context data, String[] argsOfCommand)
-            throws DivisionByZeroException, NegativeOperandException, WrongArgumentsException, StackSizeException;
-    void checkCommand(Context data, String[] argsOfCommand) throws WrongArgumentsException, StackSizeException;
+    void doOperation(Context data, String[] argsOfCommand) throws CalculatorException;
 }

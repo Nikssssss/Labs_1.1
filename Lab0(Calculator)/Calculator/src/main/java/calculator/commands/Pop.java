@@ -11,7 +11,6 @@ public class Pop implements Command {
         data.getNumber();
     }
 
-    @Override
     public void checkCommand(Context data, String[] argsOfCommand) throws WrongArgumentsException, StackSizeException{
         if (argsOfCommand.length != 0){
             throw new WrongArgumentsException("Too many arguments, need nothing");

@@ -12,7 +12,6 @@ public class Mul implements Command {
         data.pushNumber(value1 * value2);
     }
 
-    @Override
     public void checkCommand(Context data, String[] argsOfCommand) throws WrongArgumentsException, StackSizeException{
         if (argsOfCommand.length != 0){
             throw new WrongArgumentsException("Too many arguments, need nothing");

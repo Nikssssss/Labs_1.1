@@ -6,14 +6,19 @@ public class Push implements Command {
     @Override
     public void doOperation(Context data, String[] argsOfCommand) throws WrongArgumentsException{
         checkCommand(data, argsOfCommand);
-        Double variableValue = data.getVariableValue(argsOfCommand[0]);
-        if (variableValue == null){
-            throw new WrongArgumentsException("Wrong argument for command " + this.getClass().getName());
+        Double value;
+        try {
+            value = Double.valueOf(argsOfCommand[0]);
         }
-        data.pushNumber(variableValue);
+        catch (NumberFormatException ignored){
+            value = data.getVariableValue(argsOfCommand[0]);
+            if (value == null){
+                throw new WrongArgumentsException("Wrong argument for command " + this.getClass().getName());
+            }
+        }
+        data.pushNumber(value);
     }
 
-    @Override
     public void checkCommand(Context data, String[] argsOfCommand) throws WrongArgumentsException{
         if (argsOfCommand.length != 1){
             throw new WrongArgumentsException("Need only 1 argument");

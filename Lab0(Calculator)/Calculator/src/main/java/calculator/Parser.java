@@ -1,7 +1,6 @@
 package calculator;
 
-import java.io.IOException;
-import java.nio.file.Paths;
+import java.io.InputStream;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
@@ -9,24 +8,9 @@ import java.util.Scanner;
 public class Parser {
     private Queue<String[]> commands = new LinkedList<>();
     Scanner scanner;
-    String inputFileName;
 
-    public Parser(String inputFile){
-        inputFileName = inputFile;
-    }
-
-    public void createReader() throws IOException{
-        if (inputFileName.isEmpty()){
-            scanner = new Scanner(System.in);
-        }
-        else{
-            try {
-                scanner = new Scanner(Paths.get("src/main/resources/" + inputFileName));
-            }
-            catch (IOException e){
-                throw new IOException("Can't open inputFile");
-            }
-        }
+    public Parser(InputStream inputFile){
+        scanner = new Scanner(inputFile);
     }
 
     public void parseText(){

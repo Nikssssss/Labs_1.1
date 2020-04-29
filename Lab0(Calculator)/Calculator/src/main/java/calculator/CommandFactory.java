@@ -21,7 +21,7 @@ public class CommandFactory {
         }
     }
 
-    private static CommandFactory instance = null;
+    volatile private static CommandFactory instance = null;
     public static CommandFactory getInstance() throws PropertyLoadException{
         if (instance == null){
             synchronized (CommandFactory.class) {

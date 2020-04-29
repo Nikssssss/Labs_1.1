@@ -43,15 +43,12 @@ public class Main {
 
     private static InputStream createReader(String[] args) throws IOException{
         InputStream inputFile;
-        String inputFileName;
-        try {
-            inputFileName = args[0];
+        if (args.length == 0){
+                inputFile = System.in;
         }
-        catch(ArrayIndexOutOfBoundsException ignored){
-            inputFile = System.in;
-            return inputFile;
+        else {
+            inputFile = new FileInputStream("src/main/resources/" + args[0]);
         }
-        inputFile = new FileInputStream("src/main/resources/" + inputFileName);
         return inputFile;
     }
 }

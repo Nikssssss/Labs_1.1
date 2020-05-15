@@ -1,0 +1,424 @@
+мая 15, 2020 1:48:05 PM Main main
+INFO: Factory has been created
+мая 15, 2020 1:48:05 PM Main main
+INFO: Factory has begun the working process
+мая 15, 2020 1:48:05 PM collaborators.Supplier run
+INFO: Thread 22 represented Supplier has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Dealer run
+INFO: Thread 39 represented Dealer has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Dealer run
+INFO: Thread 38 represented Dealer has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Dealer run
+INFO: Thread 37 represented Dealer has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Dealer run
+INFO: Thread 36 represented Dealer has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Dealer run
+INFO: Thread 35 represented Dealer has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Dealer run
+INFO: Thread 30 represented Dealer has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Dealer run
+INFO: Thread 33 represented Dealer has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Dealer run
+INFO: Thread 31 represented Dealer has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Dealer run
+INFO: Thread 34 represented Dealer has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Dealer run
+INFO: Thread 32 represented Dealer has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Dealer run
+INFO: Thread 29 represented Dealer has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Dealer run
+INFO: Thread 28 represented Dealer has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Supplier run
+INFO: Thread 18 represented Supplier has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Supplier run
+INFO: Thread 16 represented Supplier has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Supplier run
+INFO: Thread 17 represented Supplier has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Dealer run
+INFO: Thread 27 represented Dealer has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Supplier run
+INFO: Thread 23 represented Supplier has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Supplier run
+INFO: Thread 24 represented Supplier has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Dealer run
+INFO: Thread 26 represented Dealer has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Dealer run
+INFO: Thread 25 represented Dealer has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Supplier run
+INFO: Thread 15 represented Supplier has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Supplier run
+INFO: Thread 20 represented Supplier has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Supplier run
+INFO: Thread 21 represented Supplier has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Supplier run
+INFO: Thread 14 represented Supplier has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Supplier run
+INFO: Thread 19 represented Supplier has begun to work
+мая 15, 2020 1:48:05 PM collaborators.Supplier run
+INFO: Thread 13 represented Supplier has begun to work
+мая 15, 2020 1:48:05 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:06 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:06 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:06 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:06 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:06 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:06 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:06 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:06 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:06 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:06 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:06 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:06 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:06 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:06 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:06 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:06 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 14: Auto <a880b223-76c0-4f44-a5c0-31365a05ff03> [Body: <4e26a48b-6477-4e8d-a357-ecd8bce0c5c1>, Engine: <a4a5193a-a436-4208-93b6-588aaeac154f>, Accessory: <5f63fc9a-2450-4cde-a4ed-2e96fb8c0d7a>]
+мая 15, 2020 1:48:07 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:07 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 1: Auto <e932f96c-68bc-49df-a68d-104f11a74b5c> [Body: <0eeb2c96-2b93-46f6-964e-3d806d303421>, Engine: <a90fc801-dafc-4b4f-ad23-7de8e3bf5b08>, Accessory: <0bc667e6-e8d4-4152-b546-8cfff92e2b30>]
+мая 15, 2020 1:48:07 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:08 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:08 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:08 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 3: Auto <5d0bfbaa-dc7d-4263-b59d-ffdc71c0019e> [Body: <0d0d3dbb-c6c9-47be-8067-7e98657f6364>, Engine: <f42f42fc-9191-4b02-816a-4bc526ebba37>, Accessory: <95d6398e-ca62-4702-a700-80ffcbca438f>]
+мая 15, 2020 1:48:09 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:09 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 7: Auto <e382f463-0579-4b90-bc4d-a368046e2310> [Body: <c74f8964-ad1f-4fb1-b9fe-1046cb2660a3>, Engine: <80575ddb-4ecf-466e-a3de-0690cd3f8bfa>, Accessory: <397a9180-8209-4068-9114-eab7cfacc5e5>]
+мая 15, 2020 1:48:09 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:10 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:10 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 6: Auto <051aaaf7-f2a7-4d64-9979-cfdcd2d6df48> [Body: <44e449c9-44f4-4a76-bf47-a3dbfb2f510e>, Engine: <9f3fee51-4d4f-449b-aa47-e2c0401bc9df>, Accessory: <fc354755-eb45-4b7c-85b3-12b1f2fada32>]
+мая 15, 2020 1:48:10 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:11 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:11 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:11 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 5: Auto <d9b32e3f-d211-429b-9aac-4be632ec4f6b> [Body: <f14b4336-8b73-4222-9b11-67504e3e8db0>, Engine: <1ec20e43-9b09-4e1e-ae59-f2f0d8551aab>, Accessory: <bd2b77ed-ac38-45a8-9295-83aadcc09806>]
+мая 15, 2020 1:48:12 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:12 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:12 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 11: Auto <181ba9da-12b7-4b91-a3b5-3d0dcba8f37a> [Body: <4680a69b-2d38-4305-b026-6c6614a5cddf>, Engine: <900e9281-c271-40e9-a164-e607143fc3e9>, Accessory: <ab7e622c-6566-4b75-971b-3f26093f15a1>]
+мая 15, 2020 1:48:13 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:13 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 13: Auto <68cfea4e-cde4-4906-92bb-6fd69d67af78> [Body: <d8ad7876-2e4c-43e1-a1d9-f2539cef6714>, Engine: <31723450-ed8c-47ff-9370-e7de93a2798b>, Accessory: <e44af522-34ae-41e1-b535-27e9018278cf>]
+мая 15, 2020 1:48:13 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:14 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:14 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:14 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 2: Auto <47ff01b3-cf0c-4d59-b78b-25e464e0ba20> [Body: <17caf657-e846-40d1-bbe9-27c32209ca25>, Engine: <7359d43e-00f4-4065-b2fd-d2ba68f8d81d>, Accessory: <4a88b1be-122a-49ff-be21-5056ea1811f5>]
+мая 15, 2020 1:48:15 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:15 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 4: Auto <fb669577-6c46-4091-8fde-e3ad73aa6d7f> [Body: <e92a17d6-5914-4a8a-9e0d-179f6f2138c8>, Engine: <6eb91e15-b69a-4e7b-b244-d7edab552923>, Accessory: <679df322-1c4a-4229-ae7c-7bad50941a89>]
+мая 15, 2020 1:48:15 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:16 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:16 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 9: Auto <31581363-2200-4b0e-a296-c3e09e6e61c2> [Body: <c64215e3-aa33-4842-8971-b6c7358cf3d1>, Engine: <01da46f3-8b48-4aba-9f96-e38dba393c9b>, Accessory: <d758648b-da7d-4c51-960c-e485e74ab8f7>]
+мая 15, 2020 1:48:16 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:17 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:17 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 8: Auto <bf5abe54-5f3d-44ee-b67b-a17dabf616cb> [Body: <d48e5dc1-86f5-4682-926d-fd7db0f92831>, Engine: <6ff3f73d-2236-44ff-9b58-9db69e8dad18>, Accessory: <b06f441e-7c88-4f2e-831f-ec2717b7b075>]
+мая 15, 2020 1:48:17 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:18 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:18 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 6: Auto <d375166e-6f31-45c5-9de7-883b7c7ec096> [Body: <36c441b2-0acd-4934-a72d-49638e31faf4>, Engine: <5931feca-debf-4688-98ce-408d215d5259>, Accessory: <2ff54407-4fbb-4d5a-ba27-cdac5918e945>]
+мая 15, 2020 1:48:18 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:19 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:19 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 5: Auto <ba52bf06-02f7-4b01-9c9f-84ab360b4eea> [Body: <28165626-8f31-47b5-a33a-435a0b69cfe9>, Engine: <89b9c1fa-2654-4ea5-be2e-d906755d53c3>, Accessory: <121cc33d-c16a-4ea4-9238-02bbfe7861ee>]
+мая 15, 2020 1:48:19 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:20 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:20 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:20 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 0: Auto <9b9fff25-1756-42a9-9e49-85dd8bad3afe> [Body: <dd5fd157-9d59-4686-ae42-96e4a691a391>, Engine: <01ab56e2-223f-4d33-8bca-c86e3fb32a81>, Accessory: <11eb6c63-8e67-4ef3-ad54-fa3fa2692b58>]
+мая 15, 2020 1:48:21 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:21 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:21 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 13: Auto <7823dd63-6737-44d6-9aa7-d773704680f6> [Body: <c6a5625d-f3be-4ba1-bcf3-1873d1e58518>, Engine: <0ad4ce2b-f317-4f4c-81c2-a389076cce24>, Accessory: <2541e8f4-5699-4708-93e2-1bcc753c5872>]
+мая 15, 2020 1:48:22 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:22 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 1: Auto <3719ce5e-1bea-4b22-9e9d-74721035fcdb> [Body: <37ffab79-8076-4669-9793-e4f1e72633ff>, Engine: <108188ca-c64e-45d1-9dfa-58f356e72b8e>, Accessory: <e6c1122b-0e01-4c6c-9258-9665ea484d99>]
+мая 15, 2020 1:48:22 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:23 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:23 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:23 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 3: Auto <b0a8adc8-722a-4e0a-8be9-adbcbf180b47> [Body: <a99fe52f-35db-4b76-bce7-6c93a07e7447>, Engine: <823fa82e-518d-4b3a-8dde-971f4c218a48>, Accessory: <5310b36b-1ba5-4e45-b11c-ccc8d8f7795c>]
+мая 15, 2020 1:48:24 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:24 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:24 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 7: Auto <c550b662-8239-4b40-a659-ddcbf6915967> [Body: <ff8e4474-5686-4b12-8603-c310105d9d89>, Engine: <36aa1b05-592e-4a1e-86b2-1e1601feafc0>, Accessory: <3482ee3c-e8b1-4fcd-80bd-959a8c0dd4b9>]
+мая 15, 2020 1:48:25 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:25 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:25 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 10: Auto <6d58d077-c911-42c7-9fec-282b8a22004f> [Body: <cd03f596-7632-458e-bfe7-6dcb38cb742c>, Engine: <cd4ee547-d0ed-4e84-aad2-2202b46d93da>, Accessory: <ed0e0c6d-8df1-46c9-b296-e2bae7bd48a4>]
+мая 15, 2020 1:48:26 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:26 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 12: Auto <4a7f0339-150d-41b5-8a52-7ffc2efc1d87> [Body: <954ed483-e01f-4f7f-89b2-dc4f9efb54c4>, Engine: <eab1bc32-5de9-4af2-82d1-d20d0a05fe55>, Accessory: <c41ece91-d59b-4a2d-9b2f-fed582de5885>]
+мая 15, 2020 1:48:26 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:27 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:27 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 5: Auto <e818e634-b041-4f8e-a7bb-c19471a06e38> [Body: <ebba982b-42ea-4ed9-890d-ab6a22f85f22>, Engine: <a8bcf6c5-9774-47c1-ad6e-17895ea6e150>, Accessory: <fb2fd342-28a1-4194-8ce4-abf1aa4ac9e1>]
+мая 15, 2020 1:48:27 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:28 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:28 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 0: Auto <2fd27295-c244-4bae-8619-257d2790bb3d> [Body: <46488be9-4b88-408e-8da4-7b16400e7150>, Engine: <fce2d06f-a55b-432f-96d3-e7bf94644d0f>, Accessory: <867bd78c-1e8f-4ccb-9416-0d9d780639c8>]
+мая 15, 2020 1:48:28 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:29 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:29 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 2: Auto <4e791bbb-2306-453b-bc5b-76c13d152d09> [Body: <ab0443dd-6e71-46de-9c58-36a4a1d4c848>, Engine: <ebc92d6a-af98-4028-b2fb-319d3450ea13>, Accessory: <5dd27bc7-519b-4092-9885-a3885b470b18>]
+мая 15, 2020 1:48:29 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:30 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:30 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:30 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 1: Auto <c34c469e-81ee-4e2a-b38b-c9319079c2c8> [Body: <8c90e627-5aaa-4db8-90cb-0d171308aed4>, Engine: <dfb0c1d1-9dd3-4a35-a100-b4f5e4d7f866>, Accessory: <548e32a0-6902-4d4e-a3b8-ac36da6247c1>]
+мая 15, 2020 1:48:31 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:31 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:31 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 3: Auto <daabdc0a-f01a-4fb0-ac6c-80aa7c25b8cb> [Body: <53125b68-be2b-4513-8608-b650c86a03ab>, Engine: <25982720-014f-4965-b607-34f9dfc4a181>, Accessory: <063e9d8e-8115-40a5-918c-a4b6d7b9d9a1>]
+мая 15, 2020 1:48:32 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:32 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:32 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 7: Auto <f25909de-d3ca-4ab5-b169-4dc27436617f> [Body: <09dbeea3-8da9-49b4-aba3-e7c5c0c566fc>, Engine: <f24eea8d-855e-480b-9253-04246ccd9864>, Accessory: <a66a75cd-a7dd-48dd-9093-1767d1cf50de>]
+мая 15, 2020 1:48:33 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:33 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 6: Auto <3263c904-b107-4a04-8daa-8e8b81dcbddb> [Body: <82010a86-cb09-452b-b778-9161ae764035>, Engine: <f550625e-b59f-461f-99ce-397d18f3a5b3>, Accessory: <615a48a6-7c2f-4ad8-96d0-b7ff8f82a01e>]
+мая 15, 2020 1:48:33 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:34 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:34 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:34 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 11: Auto <911970ec-e6a8-4018-af90-757a05d38d44> [Body: <6ee615ae-ef68-45d8-932d-b7b64f9ebea7>, Engine: <8fca3172-8a09-40bf-b918-4ef85a2a47fd>, Accessory: <392798c8-b419-4813-a208-8b95514b7306>]
+мая 15, 2020 1:48:35 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:35 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 14: Auto <a91180a2-0bdc-4ab0-8fb3-145c0873e5f0> [Body: <b219a5a6-2077-40a0-9ae3-92e13db49f5e>, Engine: <1fb196f1-a544-4105-b132-c2065841baf5>, Accessory: <0714b1f3-b4b1-42fd-9f38-a87dc3dca20d>]
+мая 15, 2020 1:48:35 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:36 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:36 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:36 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 13: Auto <4ed287d2-84d9-4838-a4ea-932e3e259fab> [Body: <5f1de026-18c2-4a06-919d-35591b6d0431>, Engine: <8c037562-2c5c-47fd-8975-d3ba781c095e>, Accessory: <670570e0-09f0-4a82-8e6f-ad4d1737ad2c>]
+мая 15, 2020 1:48:37 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:37 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:37 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 2: Auto <dbd520f5-8d5c-4415-8de1-6d6aa180b975> [Body: <0aa51d58-668a-4168-ae14-49abe5efc011>, Engine: <2962cb3d-9230-4bf9-9ec9-2bee2ded3fcc>, Accessory: <9978ff3c-2953-4e49-af40-65d804d34af1>]
+мая 15, 2020 1:48:38 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:38 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:38 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 1: Auto <a83b0ba7-eb93-4649-bfd4-dbe821950cc4> [Body: <32e0b211-1267-4cf3-92b0-2a5ede0403ab>, Engine: <eb8ec265-b9e9-4a0b-8b24-c07b1c464966>, Accessory: <fbae48fc-2eda-4437-97fb-2996ffc2a3b0>]
+мая 15, 2020 1:48:39 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:39 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:39 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 3: Auto <280a7fe3-ba80-4846-ae68-eec6f1a9d715> [Body: <f79963c4-faf6-4768-9f82-b8c16cf15cd8>, Engine: <a265e646-8a74-47d0-9663-313030af7972>, Accessory: <b5bcccce-5b2f-458e-b6eb-e36f40aec54b>]
+мая 15, 2020 1:48:40 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:40 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:40 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 10: Auto <4d2128b3-b621-48ea-8975-62464bb07959> [Body: <b738bf0e-dae7-401c-97b4-35e54df3a031>, Engine: <c348642d-5f39-4d0f-a005-7b1442e92e52>, Accessory: <be8a7996-e156-468b-bf3f-1b2136adc033>]
+мая 15, 2020 1:48:41 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:41 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:41 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 6: Auto <4be2eda8-44ff-49fb-8b05-24d449edcb0d> [Body: <510ad90a-11e3-4b5d-b615-41d9383cc19a>, Engine: <77c1abfb-aded-4b71-b487-b4482ad41b7a>, Accessory: <cbaffcc9-062f-4d4e-9098-9dbc80ef6efa>]
+мая 15, 2020 1:48:42 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:42 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:42 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 5: Auto <01218323-4298-4630-a7d6-765d6ea1676a> [Body: <0728862a-dfb4-47e6-b84a-630407686951>, Engine: <459184b1-3421-4c95-bcc5-3eb7cbfeafe7>, Accessory: <54b198c5-ac11-43d4-9b09-f03736ed593a>]
+мая 15, 2020 1:48:43 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:43 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:43 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 14: Auto <a7f81787-3a6a-47c1-957e-d4e3b46cf9bb> [Body: <b2192ac6-3dae-45c2-9b0d-ebaf48bdd4bc>, Engine: <fcdf0bc7-4159-4da2-a430-1eda62ea629e>, Accessory: <806372a6-3a80-49f1-88e3-0615782efe54>]
+мая 15, 2020 1:48:44 PM factory.StorageController update
+INFO: Controller has sent request to workers
+мая 15, 2020 1:48:44 PM factory.StorageController$Task run
+INFO: Worker has made a new car
+мая 15, 2020 1:48:44 PM collaborators.Dealer requestCar
+INFO: 15.05.2020 at 13:48:05 NOVT: Dealer 13: Auto <66e8fc1c-ae4e-4ad1-9198-ab1f99cbbba5> [Body: <1aa64f63-6ffc-45ae-98cf-0552482190d5>, Engine: <c364d00e-98d2-4e01-bcdf-b625a992d6de>, Accessory: <c08929d2-1f9f-41ce-91ec-23cb1a8e2366>]
+мая 15, 2020 1:48:45 PM Main main
+INFO: Factory is beginning to end
+мая 15, 2020 1:48:45 PM Main main
+INFO: Factory has ended the working process
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 20 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 20 represented Supplier has ended the work
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 17 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 17 represented Supplier has ended the work
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 36 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 36 represented Dealer has ended to work
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 19 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 19 represented Supplier has ended the work
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 18 represented Supplier has ended the work
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 25 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 25 represented Dealer has ended to work
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 26 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 26 represented Dealer has ended to work
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 27 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 27 represented Dealer has ended to work
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 28 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 28 represented Dealer has ended to work
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 29 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 31 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 30 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 32 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 33 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 34 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 35 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 37 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 37 represented Dealer has ended to work
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 39 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 38 represented Dealer has ended to work
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 15 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 13 represented Supplier has ended the work
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 14 represented Supplier has ended the work
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 16 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 24 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 23 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 22 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 21 represented Dealer has been interrupted while it was waiting
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 22 represented Supplier has ended the work
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 23 represented Supplier has ended the work
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 24 represented Supplier has ended the work
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 16 represented Supplier has ended the work
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 15 represented Supplier has ended the work
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 39 represented Dealer has ended to work
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 35 represented Dealer has ended to work
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 34 represented Dealer has ended to work
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 33 represented Dealer has ended to work
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 32 represented Dealer has ended to work
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 30 represented Dealer has ended to work
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 31 represented Dealer has ended to work
+мая 15, 2020 1:48:45 PM collaborators.Dealer run
+INFO: Thread 29 represented Dealer has ended to work
+мая 15, 2020 1:48:45 PM collaborators.Supplier run
+INFO: Thread 21 represented Supplier has ended the work

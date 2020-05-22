@@ -13,6 +13,7 @@ import java.util.ArrayList;
 import java.util.Properties;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadPoolExecutor;
+import java.util.concurrent.TimeUnit;
 
 public class Factory {
     private Properties properties;
@@ -50,7 +51,7 @@ public class Factory {
             dealers.add(new Dealer(carStorage, dealerDelay, i));
         }
         workers = (ThreadPoolExecutor) Executors.newFixedThreadPool(Integer.parseInt(properties.getProperty("Workers")));
-        controller = new StorageController(carStorage, engineStorage, bodyStorage, accessoryStorage, workers);
+        controller = new StorageController(carStorage, engineStorage, bodyStorage, accessoryStorage, workers, dealers);
 
         carStorage.addObserver(controller);
     }
@@ -61,20 +62,29 @@ public class Factory {
         for (Supplier<Accessory> supplier : accessorySuppliers){
             supplier.start();
         }
+        controller.init();
         for (Dealer dealer : dealers){
             dealer.start();
         }
     }
 
     public void endWork(){
-        workers.shutdownNow();
-        for (Dealer dealer : dealers){
-            dealer.interrupt();
+        try {
+            workers.shutdownNow();
+            workers.awaitTermination(5, TimeUnit.SECONDS);
+            for (Dealer dealer : dealers) {
+                dealer.interrupt();
+                dealer.join();
+            }
+            engineSupplier.interrupt();
+            engineSupplier.join();
+            bodySupplier.interrupt();
+            bodySupplier.join();
+            for (Supplier<Accessory> supplier : accessorySuppliers) {
+                supplier.interrupt();
+                supplier.join();
+            }
         }
-        engineSupplier.interrupt();
-        bodySupplier.interrupt();
-        for (Supplier<Accessory> supplier : accessorySuppliers){
-            supplier.interrupt();
-        }
+        catch (InterruptedException ignored){}
     }
 }

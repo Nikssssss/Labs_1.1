@@ -4,7 +4,6 @@ import factory.details.Detail;
 import observers.Observable;
 
 import java.util.Stack;
-import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class Storage<T extends Detail> extends Observable {
@@ -27,16 +26,21 @@ public class Storage<T extends Detail> extends Observable {
     }
 
     public synchronized T getDetail() throws InterruptedException {
-        notifyObservers();
         while (numberOfDetails == 0){
             wait();
         }
         numberOfDetails--;
         notify();
-        return storage.pop();
+        T returnedDetail = storage.pop();
+        notifyObservers();
+        return returnedDetail;
     }
 
     public synchronized Integer getNumberOfDetails() {
         return numberOfDetails;
+    }
+
+    public synchronized Integer getStorageSize() {
+        return storageSize;
     }
 }
